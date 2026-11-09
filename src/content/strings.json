@@ -1,0 +1,177 @@
+{
+  "nav.about": {
+    "en": "About",
+    "zh": "关于"
+  },
+  "nav.projects": {
+    "en": "Projects",
+    "zh": "项目"
+  },
+  "nav.skills": {
+    "en": "Skills",
+    "zh": "技能"
+  },
+  "nav.certificates": {
+    "en": "Certificates",
+    "zh": "证书"
+  },
+  "section.about.title": {
+    "en": "About",
+    "zh": "关于"
+  },
+  "section.about.tagline": {
+    "en": "Who is behind the archive",
+    "zh": "档案背后的人"
+  },
+  "section.projects.title": {
+    "en": "Projects",
+    "zh": "项目"
+  },
+  "section.projects.tagline": {
+    "en": "Selected works, reel by reel",
+    "zh": "精选作品，一卷一卷"
+  },
+  "section.skills.title": {
+    "en": "Skills",
+    "zh": "技能"
+  },
+  "section.skills.tagline": {
+    "en": "Tools on the workbench",
+    "zh": "工作台上的工具"
+  },
+  "section.certificates.title": {
+    "en": "Certificates",
+    "zh": "证书"
+  },
+  "section.certificates.tagline": {
+    "en": "Badges earned & in progress",
+    "zh": "已获得与准备中的徽章"
+  },
+  "ui.brand.kicker": {
+    "en": "— PERSONAL PORTFOLIO —",
+    "zh": "— 个人作品集 —"
+  },
+  "ui.back": {
+    "en": "Back",
+    "zh": "返回"
+  },
+  "ui.esc": {
+    "en": "ESC"
+  },
+  "ui.sound.on": {
+    "en": "♪ SOUND ON",
+    "zh": "♪ 声音 开"
+  },
+  "ui.sound.off": {
+    "en": "♪ SOUND OFF",
+    "zh": "♪ 声音 关"
+  },
+  "ui.view.simple": {
+    "en": "Simple View",
+    "zh": "简洁版"
+  },
+  "ui.view.3d": {
+    "en": "3D View",
+    "zh": "3D 版"
+  },
+  "ui.copy": {
+    "en": "COPY",
+    "zh": "复制"
+  },
+  "ui.copied": {
+    "en": "COPIED",
+    "zh": "已复制"
+  },
+  "ui.allProjects": {
+    "en": "← All Projects",
+    "zh": "← 全部项目"
+  },
+  "ui.allCategories": {
+    "en": "← All Categories",
+    "zh": "← 全部分类"
+  },
+  "ui.projectCount": {
+    "en": "{n} PROJECTS",
+    "zh": "{n} 个项目"
+  },
+  "ui.overview": {
+    "en": "OVERVIEW",
+    "zh": "简介"
+  },
+  "ui.techStack": {
+    "en": "TECH STACK",
+    "zh": "技术栈"
+  },
+  "ui.links": {
+    "en": "LINKS",
+    "zh": "链接"
+  },
+  "ui.github": {
+    "en": "GitHub",
+    "zh": "GitHub"
+  },
+  "ui.demo": {
+    "en": "Live demo",
+    "zh": "在线演示"
+  },
+  "ui.education": {
+    "en": "EDUCATION",
+    "zh": "教育背景"
+  },
+  "ui.interests": {
+    "en": "INTERESTS",
+    "zh": "兴趣方向"
+  },
+  "ui.viewCredential": {
+    "en": "View credential →",
+    "zh": "查看证书 →"
+  },
+  "ui.inProgress": {
+    "en": "IN PROGRESS",
+    "zh": "准备中"
+  },
+  "ui.earned": {
+    "en": "EARNED",
+    "zh": "已获得"
+  },
+  "ui.preparing": {
+    "en": "Currently preparing.",
+    "zh": "正在准备中。"
+  },
+  "ui.credentialId": {
+    "en": "ID",
+    "zh": "编号"
+  },
+  "ui.hint.browse": {
+    "en": "DRAG · SCROLL · ← → to browse",
+    "zh": "拖动 · 滚轮 · ← → 浏览"
+  },
+  "ui.hint.load": {
+    "en": "ENTER / click / turn the knob to load",
+    "zh": "回车 / 点击 / 转动旋钮载入"
+  },
+  "ui.screen.load": {
+    "en": "▶ PRESS ENTER OR TURN THE KNOB TO LOAD",
+    "zh": "▶ 按回车或转动旋钮载入"
+  },
+  "ui.lang": {
+    "en": "LANGUAGE",
+    "zh": "语言"
+  },
+  "intro.question": {
+    "en": "Why should you hire Your Name?",
+    "zh": "你为什么应该录用 Your Name？"
+  },
+  "intro.answer": {
+    "en": "The answer is in the archive.",
+    "zh": "答案就在档案里。"
+  },
+  "intro.skip": {
+    "en": "SKIP ▸",
+    "zh": "跳过 ▸"
+  },
+  "intro.loading": {
+    "en": "warming up the lamp…",
+    "zh": "正在预热灯泡…"
+  }
+}

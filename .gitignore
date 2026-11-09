@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.superpowers/
+.claude/
+spike/models/
+.vite/

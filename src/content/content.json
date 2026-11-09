@@ -1,0 +1,510 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "role": {
+      "en": "Your Role",
+      "zh": "你的职位"
+    },
+    "bio": [
+      {
+        "en": "A short introduction goes here: who you are, where you are based and what you work on. This paragraph is placeholder text.",
+        "zh": "这里写一段简短的自我介绍：你是谁、在哪里、做什么。这段是占位文字。"
+      },
+      {
+        "en": "A second paragraph can say what kind of projects you enjoy and what you are looking for next.",
+        "zh": "第二段可以写你喜欢做什么样的项目，以及接下来想找什么样的机会。"
+      }
+    ],
+    "photo": "images/portrait.svg",
+    "contacts": [
+      {
+        "kind": "email",
+        "label": "EMAIL",
+        "value": "name@example.com",
+        "href": "mailto:name@example.com"
+      },
+      {
+        "kind": "phone",
+        "label": "PHONE",
+        "value": "000-0000-0000",
+        "href": "tel:+10000000000"
+      },
+      {
+        "kind": "github",
+        "label": "GITHUB",
+        "value": "github.com/username",
+        "href": "https://github.com/username"
+      },
+      {
+        "kind": "linkedin",
+        "label": "LINKEDIN",
+        "value": "linkedin.com/in/username",
+        "href": "https://www.linkedin.com/in/username"
+      }
+    ],
+    "education": [
+      {
+        "en": "Example University · B.S. Your Major (20XX)",
+        "zh": "示例大学 · 专业 学士（20XX）"
+      }
+    ],
+    "interests": {
+      "en": "Interest One · Interest Two · Interest Three",
+      "zh": "兴趣一 · 兴趣二 · 兴趣三"
+    }
+  },
+  "projectCategories": [
+    {
+      "id": "ai",
+      "code": "AI",
+      "name": {
+        "en": "AI",
+        "zh": "AI"
+      },
+      "summary": {
+        "en": "Agents, models and data.",
+        "zh": "智能体、模型与数据。"
+      },
+      "image": null
+    },
+    {
+      "id": "engineering",
+      "code": "ENG",
+      "name": {
+        "en": "Engineering",
+        "zh": "工程"
+      },
+      "summary": {
+        "en": "Apps, games and tools.",
+        "zh": "应用、游戏与工具。"
+      },
+      "image": null
+    },
+    {
+      "id": "it-operations",
+      "code": "OPS",
+      "name": {
+        "en": "IT Operations",
+        "zh": "IT 运维"
+      },
+      "summary": {
+        "en": "Systems, networks and cloud.",
+        "zh": "系统、网络与云。"
+      },
+      "image": null
+    }
+  ],
+  "projects": [
+    {
+      "code": "AI-01",
+      "category": "ai",
+      "name": {
+        "en": "Project One",
+        "zh": "项目一"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": "images/p01.svg",
+      "stack": [
+        "python",
+        "docker"
+      ],
+      "links": {
+        "github": "https://github.com/username/project",
+        "demo": null
+      }
+    },
+    {
+      "code": "AI-02",
+      "category": "ai",
+      "name": {
+        "en": "Project Two",
+        "zh": "项目二"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": null,
+      "stack": [
+        "python",
+        "git"
+      ],
+      "links": {
+        "github": null,
+        "demo": null
+      }
+    },
+    {
+      "code": "AI-03",
+      "category": "ai",
+      "name": {
+        "en": "Project Three",
+        "zh": "项目三"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": null,
+      "stack": [
+        "typescript",
+        "react"
+      ],
+      "links": {
+        "github": null,
+        "demo": null
+      }
+    },
+    {
+      "code": "ENG-01",
+      "category": "engineering",
+      "name": {
+        "en": "Project One",
+        "zh": "项目一"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": "images/p01.svg",
+      "stack": [
+        "typescript",
+        "react"
+      ],
+      "links": {
+        "github": "https://github.com/username/project",
+        "demo": "https://example.com"
+      }
+    },
+    {
+      "code": "ENG-02",
+      "category": "engineering",
+      "name": {
+        "en": "Project Two",
+        "zh": "项目二"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": null,
+      "stack": [
+        "javascript",
+        "git"
+      ],
+      "links": {
+        "github": null,
+        "demo": null
+      }
+    },
+    {
+      "code": "ENG-03",
+      "category": "engineering",
+      "name": {
+        "en": "Project Three",
+        "zh": "项目三"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": "images/p03.svg",
+      "stack": [
+        "python",
+        "github-actions"
+      ],
+      "links": {
+        "github": null,
+        "demo": null
+      }
+    },
+    {
+      "code": "OPS-01",
+      "category": "it-operations",
+      "name": {
+        "en": "Project One",
+        "zh": "项目一"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": "images/p01.svg",
+      "stack": [
+        "linux",
+        "bash",
+        "docker"
+      ],
+      "links": {
+        "github": "https://github.com/username/project",
+        "demo": null
+      }
+    },
+    {
+      "code": "OPS-02",
+      "category": "it-operations",
+      "name": {
+        "en": "Project Two",
+        "zh": "项目二"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": null,
+      "stack": [
+        "aws",
+        "linux"
+      ],
+      "links": {
+        "github": null,
+        "demo": null
+      }
+    },
+    {
+      "code": "OPS-03",
+      "category": "it-operations",
+      "name": {
+        "en": "Project Three",
+        "zh": "项目三"
+      },
+      "summary": {
+        "en": "One line on what this project does.",
+        "zh": "一句话说明这个项目做什么。"
+      },
+      "overview": {
+        "en": "A placeholder description: the problem, what you built, the technologies you used and the result. Two to four sentences read well on the reader screen.",
+        "zh": "占位简介：要解决的问题、你做了什么、用了哪些技术、结果如何。两到四句话在阅读屏上效果最好。"
+      },
+      "image": null,
+      "stack": [
+        "bash",
+        "git"
+      ],
+      "links": {
+        "github": null,
+        "demo": null
+      }
+    }
+  ],
+  "skills": [
+    {
+      "group": "LANGUAGES",
+      "items": [
+        {
+          "id": "python",
+          "name": "Python",
+          "level": 4,
+          "years": {
+            "en": "3 yrs",
+            "zh": "3 年"
+          },
+          "note": {
+            "en": "Where you used Python, e.g. which projects.",
+            "zh": "在哪里用过 Python，比如哪些项目。"
+          }
+        },
+        {
+          "id": "typescript",
+          "name": "TypeScript",
+          "level": 3,
+          "years": {
+            "en": "2 yrs",
+            "zh": "2 年"
+          },
+          "note": {
+            "en": "Where you used TypeScript, e.g. which projects.",
+            "zh": "在哪里用过 TypeScript，比如哪些项目。"
+          }
+        },
+        {
+          "id": "javascript",
+          "name": "JavaScript",
+          "level": 3,
+          "note": {
+            "en": "Where you used JavaScript, e.g. which projects.",
+            "zh": "在哪里用过 JavaScript，比如哪些项目。"
+          }
+        },
+        {
+          "id": "bash",
+          "name": "Bash",
+          "level": 2,
+          "note": {
+            "en": "Where you used Bash, e.g. which projects.",
+            "zh": "在哪里用过 Bash，比如哪些项目。"
+          }
+        }
+      ]
+    },
+    {
+      "group": "WEB & APPS",
+      "items": [
+        {
+          "id": "react",
+          "name": "React",
+          "level": 3,
+          "years": {
+            "en": "2 yrs",
+            "zh": "2 年"
+          },
+          "note": {
+            "en": "Where you used React, e.g. which projects.",
+            "zh": "在哪里用过 React，比如哪些项目。"
+          }
+        }
+      ]
+    },
+    {
+      "group": "INFRA & CLOUD",
+      "items": [
+        {
+          "id": "linux",
+          "name": "Linux",
+          "level": 3,
+          "note": {
+            "en": "Where you used Linux, e.g. which projects.",
+            "zh": "在哪里用过 Linux，比如哪些项目。"
+          }
+        },
+        {
+          "id": "docker",
+          "name": "Docker",
+          "level": 3,
+          "note": {
+            "en": "Where you used Docker, e.g. which projects.",
+            "zh": "在哪里用过 Docker，比如哪些项目。"
+          }
+        },
+        {
+          "id": "aws",
+          "name": "AWS",
+          "level": 2,
+          "note": {
+            "en": "Where you used AWS, e.g. which projects.",
+            "zh": "在哪里用过 AWS，比如哪些项目。"
+          }
+        }
+      ]
+    },
+    {
+      "group": "TOOLS",
+      "items": [
+        {
+          "id": "git",
+          "name": "Git",
+          "level": 4,
+          "note": {
+            "en": "Where you used Git, e.g. which projects.",
+            "zh": "在哪里用过 Git，比如哪些项目。"
+          }
+        },
+        {
+          "id": "github-actions",
+          "name": "GitHub Actions",
+          "level": 2,
+          "note": {
+            "en": "Where you used GitHub Actions, e.g. which projects.",
+            "zh": "在哪里用过 GitHub Actions，比如哪些项目。"
+          }
+        }
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": {
+        "en": "Example Certificate A",
+        "zh": "示例证书 A"
+      },
+      "icon": "◈",
+      "status": "earned",
+      "issuer": {
+        "en": "Issuing Organization",
+        "zh": "颁发机构"
+      },
+      "date": "20XX-01",
+      "credentialId": null,
+      "url": "https://example.com"
+    },
+    {
+      "name": {
+        "en": "Example Certificate B",
+        "zh": "示例证书 B"
+      },
+      "icon": "☁",
+      "status": "earned",
+      "issuer": {
+        "en": "Issuing Organization",
+        "zh": "颁发机构"
+      },
+      "date": "20XX-06",
+      "credentialId": null,
+      "url": null
+    },
+    {
+      "name": {
+        "en": "Example Language Test",
+        "zh": "示例语言考试"
+      },
+      "icon": "A",
+      "status": "earned",
+      "issuer": {
+        "en": "Testing Organization",
+        "zh": "考试机构"
+      },
+      "date": "20XX-09",
+      "credentialId": null,
+      "url": null
+    },
+    {
+      "name": {
+        "en": "Certificate In Progress",
+        "zh": "准备中的证书"
+      },
+      "icon": "◇",
+      "status": "in-progress",
+      "issuer": {
+        "en": "Issuing Organization",
+        "zh": "颁发机构"
+      },
+      "credentialId": null,
+      "url": null
+    }
+  ]
+}
